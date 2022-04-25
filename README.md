@@ -5,6 +5,6 @@ Languages used:JavaScript,HTML,CSS.
 
 
 
-Screenshot
+Screenshot:
 
 ![Capture](https://user-images.githubusercontent.com/69798163/165158634-d330e8cf-2755-423a-aaf2-90b645bb1942.PNG)
